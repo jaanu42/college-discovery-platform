@@ -9,7 +9,7 @@ Built using Next.js, React, TypeScript, and TailwindCSS with a strong focus on f
 # Live Demo
 
 
-https://college-discovery-platform.vercel.app
+https://college-discovery-platform-two.vercel.app/
 
 ---
 
